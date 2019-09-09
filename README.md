@@ -1,0 +1,2 @@
+# gitomgbot
+funny stuff
